@@ -37,6 +37,7 @@ Perfect for learning `Math.random()`, `eval()`, string interpolation, and condit
 ## 🚀 How to Run
 
 1. Open the `faulty_calculator.html` file in any web browser  
+   (or paste the code in a browser console or JS playground like [CodePen](https://codepen.io), [JSFiddle](https://jsfiddle.net), or [Replit](https://replit.com))
 
 2. Enter two numbers and an operator when prompted.
 
@@ -56,8 +57,8 @@ Perfect for learning `Math.random()`, `eval()`, string interpolation, and condit
 ---
 
 
-```
 
+---
 
 ## 🎯 Why This Project?
 
